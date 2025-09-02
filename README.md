@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **nah me funny af trust.**
 
+<img src="./assets/images/light-tweaking.gif" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -18,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinashnavaseelan&show_icons=true&theme=dark&locale=en" alt="abinashnavaseelan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinashnavaseelan&theme=dark" alt="abinashnavaseelan" /></p>
-
