@@ -13,11 +13,11 @@
 <img src="./assets/images/Kira-TweakingLowRes.gif" />
 </p>
 
-<h3 align="left"></h3>
-<p align="left">
+<h3 align="center"></h3>
+<p align="center">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashnavaseelan&show_icons=true&theme=dark&locale=en&layout=compact" alt="abinashnavaseelan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashnavaseelan&show_icons=true&theme=dark&locale=en&layout=compact" alt="abinashnavaseelan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abinashnavaseelan&show_icons=true&theme=dark&locale=en" alt="abinashnavaseelan" /></p>
 
