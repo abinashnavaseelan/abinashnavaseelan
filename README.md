@@ -10,7 +10,7 @@
 - ⚡ Fun fact about me: **I'm funny af trust :).**
 
 <p align="center">
-<img src="./assets/images/light-tweaking.gif" />
+<img src="./assets/images/Kira-TweakingLowRes.gif" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
