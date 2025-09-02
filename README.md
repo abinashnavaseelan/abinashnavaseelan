@@ -13,8 +13,8 @@
 <img src="./assets/images/Kira-TweakingLowRes.gif" />
 </p>
 
-<h3 align="center"></h3>
-<p align="center">
+<h3 align="right"></h3>
+<p align="left">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashnavaseelan&show_icons=true&theme=dark&locale=en&layout=compact" alt="abinashnavaseelan" /></p>
