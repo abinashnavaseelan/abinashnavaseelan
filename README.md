@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinash Navaseelan</h1>
-<h3 align="center">Studying to be a Full Stack Developer</h3>
+<h3 align="center">Studying to be a Full Stack Developer. it's not going great gang :(. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinashnavaseelan" alt="abinashnavaseelan" /></a> </p>
 
