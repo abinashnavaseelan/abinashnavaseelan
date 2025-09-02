@@ -9,7 +9,9 @@
 
 - ⚡ Fun fact **nah me funny af trust.**
 
+<p align="center">
 <img src="./assets/images/light-tweaking.gif" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
