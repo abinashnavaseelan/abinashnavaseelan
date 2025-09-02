@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: i have zero experiences btw.
 
-- ⚡ Fun fact about me: **nah me funny af trust.**
+- ⚡ Fun fact about me: **nI'm funny af trust :).**
 
 <p align="center">
 <img src="./assets/images/light-tweaking.gif" />
