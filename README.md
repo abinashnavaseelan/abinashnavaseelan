@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 📄 Know about my experiences [i have zero experiences btw.](i have zero experiences btw.)
+- 📄 Know about my experiences (i have zero experiences btw.)
 
 - ⚡ Fun fact **nah me funny af trust.**
 
