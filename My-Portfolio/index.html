@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>𝙰𝚋𝚒𝚗𝚊𝚜𝚑 𝙽𝚊𝚟𝚊𝚜𝚎𝚎𝚕𝚊𝚗</title>
+    <meta
+      name="description"
+      content="Personal portfolio with glass-effect navigation bar and photo background."
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="/assets/Images/kira.png" type="image/png" />
+    <link href="/assets/Fonts/jmh_typewriter" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <nav class="glass-nav">
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="hero">
+        <h1>
+          <span class="typewriter">Hi, I’m Abinash 👋</span>
+        </h1>
+        <p>
+          <span class="typewriter1">IT Technican • Coder</span>
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section id="about">
+        <h2>About Me</h2>
+        <p>
+          My name is Abinash Navaseelan. I am 19 years old and a Junior IT
+          Technician who recently graduated from NTI Gymnasiet Södertörn.
+          Currently, I am pursuing studies to become a Full Stack Developer at
+          the same institution. I have a strong interest in programming and am
+          passionate about troubleshooting and working with computers.
+        </p>
+        <img
+          src="/assets/Images/kira.png"
+          alt="Profile picture"
+          class="profile-img"
+        />
+
+        <!-- Glass Social Dropdown using details/summary -->
+        <div class="glass-dropdown">
+          <details>
+            <summary>Connect with me</summary>
+            <div class="dropdown-content">
+              <a href="https://github.com/abinashnavaseelan" target="_blank"
+                >GitHub</a
+              >
+              <a href="https://linkedin.com/in/yourusername" target="_blank"
+                >LinkedIn</a
+              >
+              <a href="https://twitter.com/yourusername" target="_blank"
+                >Twitter</a
+              >
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <section id="projects">
+        <h2>Projects</h2>
+        <div class="project-grid">
+          <article class="project-card">
+            <h3>THIS PORTFOLIO SITE.</h3>
+            <p>My Personal Website to show my amazing work.</p>
+          </article>
+          <article class="project-card">
+            <h3>TO BE CONTINUED...</h3>
+            <p>ERROR 404: PROJECT NOT FOUND.</p>
+          </article>
+          <article class="project-card">
+            <h3>TO BE CONTINUED...</h3>
+            <p>ERROR 404: PROJECT NOT FOUND.</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact">
+        <h2>Contact</h2>
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+
+          <label for="phonenumber">Phone Number:</label>
+          <input
+            type="phonenumber"
+            id="phonenumber"
+            name="phonenumber"
+            required
+          />
+
+          <label for="message">Message:</label>
+          <textarea id="message" name="message" rows="4"></textarea>
+
+          <button type="submit">𝚂𝚎𝚗𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎</button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 𝟸𝟶𝟸𝟻 | 𝙰𝚋𝚒𝚗𝚊𝚜𝚑 𝙽𝚊𝚟𝚊𝚜𝚎𝚎𝚕𝚊𝚗</p>
+    </footer>
+  </body>
+</html>
