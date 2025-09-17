@@ -2,7 +2,7 @@
 <h3 align="center">𝚖𝚊𝚍𝚎 𝚒𝚗 𝙷𝚃𝙼𝙻 & 𝙲𝚂𝚂 </h3>
 
 <p align="center">
-  <a href="https://abinashnavaseelan-portfolio.netlify.app/" target="_blank">🌐 𝙼𝚢 𝚆𝚎𝚋𝚜𝚒𝚝𝚎</a>
+  <a href="https://abinashnavaseelan-portfolio.netlify.app/" target="_blank">🌐 𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚆𝚎𝚋𝚜𝚒𝚝𝚎</a>
 </p>
 
 <p align="center">
