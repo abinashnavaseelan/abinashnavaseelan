@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <h1 align="center">𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎 🌙</h1>
+  <h2 align="center">𝙳𝚊𝚛𝚔 𝙼𝚘𝚍𝚎 🌙</h2>
 <img src="./assets/myportfoliodarkmode.gif" />
 </p>
 
 <p align="center">
-  <h1 align="center">𝙻𝚒𝚐𝚑𝚝 𝙼𝚘𝚍𝚎 ☀️</h1>
+  <h2 align="center">𝙻𝚒𝚐𝚑𝚝 𝙼𝚘𝚍𝚎 ☀️</h2>
 <img src="./assets/myportfoliolightmode.gif" />
 </p>
