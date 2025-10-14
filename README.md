@@ -1,5 +1,5 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝙰𝚋𝚒𝚗𝚊𝚜𝚑 𝙽𝚊𝚟𝚊𝚜𝚎𝚎𝚕𝚊𝚗</h1>
-<h3 align="center">𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚝𝚘 𝚋𝚎 𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝚒𝚝'𝚜 𝚗𝚘𝚝 𝚐𝚘𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚐𝚊𝚗𝚐 😞. </h3>
+<h3 align="center">𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚝𝚘 𝚋𝚎 𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝚒𝚝'𝚜 𝚗𝚘𝚝 𝚐𝚘𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚐𝚊𝚗𝚐 💔. </h3>
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐:  ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-007BFF?logo=css&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
