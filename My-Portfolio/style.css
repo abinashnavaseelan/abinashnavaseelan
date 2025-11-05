@@ -10,16 +10,28 @@
   --box-shadowred: rgba(255, 9, 9, 0.089);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #121212;
-    --text: #ffffff;
-    --primary: #ff5555;
-    --secondary: #c62a2a;
-    --glass-light: rgba(30, 30, 30, 0.3);
-    --glass-dark: rgba(255, 255, 255, 0.05);
-    --box-shadowred: rgba(255, 9, 9, 0.089);
-  }
+/* Light Theme */
+[data-theme="light"] {
+  --bg: #f9f9f9;
+  --text: #222;
+  --primary: #ff5555;
+  --secondary: #c62a2a;
+  --button-color: #ff0000;
+  --glass-light: rgba(255, 255, 255, 0.15);
+  --glass-dark: rgba(30, 30, 30, 0.3);
+  --box-shadowred: rgba(255, 9, 9, 0.089);
+}
+
+/* Dark Theme */
+[data-theme="dark"] {
+  --bg: #121212;
+  --text: #ffffff;
+  --primary: #ff5555; /* bright red */
+  --secondary: #c62a2a; /* deeper red */
+  --button-color: #ff0000; /* main button red */
+  --glass-light: rgba(30, 30, 30, 0.3);
+  --glass-dark: rgba(255, 255, 255, 0.05);
+  --box-shadowred: rgba(255, 9, 9, 0.089);
 }
 
 html {
@@ -53,7 +65,7 @@ header {
   align-items: center;
 
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/Images/kirabannerheadertest.gif") center/cover no-repeat;
+    url("./assets/Images/lightbannernew.gif") center/cover no-repeat;
   background-attachment: fixed;
   color: white;
 }
@@ -77,13 +89,9 @@ header {
   padding: 0.75rem 1.5rem;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
   z-index: 10;
-}
-
-@media (prefers-color-scheme: dark) {
-  .glass-nav {
-    background: var(--glass-light);
-    box-shadow: 0 4px 20px rgba(255, 255, 255, 0.05);
-  }
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .glass-nav ul {
@@ -105,6 +113,23 @@ header {
 .glass-nav a:hover {
   background: rgba(255, 255, 255, 0.2);
   color: var(--primary);
+  transform: scale(1.05);
+}
+
+#theme-toggle {
+  cursor: pointer;
+  background: var(--glass-light);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  font-size: 1.2rem;
+  color: var(--text);
+  backdrop-filter: blur(12px);
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+#theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.25);
   transform: scale(1.05);
 }
 
@@ -164,29 +189,27 @@ summary::-webkit-details-marker {
 }
 
 /* Dark mode adjustments for dropdown */
-@media (prefers-color-scheme: dark) {
-  .glass-dropdown summary {
-    background: var(--glass-dark);
-    color: var(--text);
-  }
+[data-theme="dark"] .glass-dropdown summary {
+  background: var(--glass-dark);
+  color: var(--text);
+}
 
-  .glass-dropdown summary:hover {
-    background: rgba(255, 255, 255, 0.1);
-    color: var(--primary);
-  }
+[data-theme="dark"] .glass-dropdown summary:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--primary);
+}
 
-  .dropdown-content {
-    background: var(--glass-dark);
-  }
+[data-theme="dark"] .dropdown-content {
+  background: var(--glass-dark);
+}
 
-  .dropdown-content a {
-    color: var(--text);
-  }
+[data-theme="dark"] .dropdown-content a {
+  color: var(--text);
+}
 
-  .dropdown-content a:hover {
-    background: rgba(255, 255, 255, 0.1);
-    color: var(--primary);
-  }
+[data-theme="dark"] .dropdown-content a:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--primary);
 }
 
 /* =========================
@@ -259,6 +282,14 @@ section {
   border-radius: 12px;
   box-shadow: 0px 22px 70px 4px var(--box-shadowred);
   background: var(--bg);
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.6s ease;
+}
+
+section.visible {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .profile-img {
@@ -286,6 +317,31 @@ section {
 
 .project-card:hover {
   transform: translateY(-5px);
+}
+
+/* Skills Section */
+.skills-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.skills-list li {
+  background: var(--glass-light);
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  color: var(--text);
+  font-weight: bold;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.skills-list li:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
 }
 
 /* Contact form */
@@ -321,7 +377,6 @@ button {
 }
 
 button:hover {
-  background: var(--button-color);
   transform: translateY(-2px);
 }
 

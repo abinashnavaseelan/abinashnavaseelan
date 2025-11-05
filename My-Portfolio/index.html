@@ -9,8 +9,8 @@
       content="Personal portfolio with glass-effect navigation bar and photo background."
     />
     <link rel="stylesheet" href="style.css" />
-    <link rel="icon" href="/assets/Images/kira.png" type="image/png" />
-    <link href="/assets/Fonts/jmh_typewriter" rel="stylesheet" />
+    <link rel="icon" href="./assets/Images/kira.png" type="image/png" />
+    <link href="./assets/Fonts/jmh_typewriter" rel="stylesheet" />
   </head>
   <body>
     <header>
@@ -20,6 +20,7 @@
           <li><a href="#projects">Projects</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
+        <button id="theme-toggle">🌙</button>
       </nav>
 
       <div class="hero">
@@ -43,12 +44,12 @@
           passionate about troubleshooting and working with computers.
         </p>
         <img
-          src="/assets/Images/kira.png"
+          src="./assets/Images/kirared.png"
           alt="Profile picture"
           class="profile-img"
         />
 
-        <!-- Glass Social Dropdown using details/summary -->
+        <!-- Glass Social Dropdown -->
         <div class="glass-dropdown">
           <details>
             <summary>Connect with me</summary>
@@ -67,27 +68,27 @@
         </div>
       </section>
 
+      <!-- Skills Section -->
+      <section id="skills">
+        <h2>My Skills</h2>
+        <ul class="skills-list">
+          <li>Networking</li>
+          <li>Windows / Linux</li>
+          <li>Fiber Installation</li>
+          <li>Homelabbing</li>
+        </ul>
+      </section>
+
       <section id="projects">
         <h2>Projects</h2>
-        <div class="project-grid">
-          <article class="project-card">
-            <h3>THIS PORTFOLIO SITE.</h3>
-            <p>My Personal Website to show my amazing work.</p>
-          </article>
-          <article class="project-card">
-            <h3>TO BE CONTINUED...</h3>
-            <p>ERROR 404: PROJECT NOT FOUND.</p>
-          </article>
-          <article class="project-card">
-            <h3>TO BE CONTINUED...</h3>
-            <p>ERROR 404: PROJECT NOT FOUND.</p>
-          </article>
+        <div class="project-grid" id="projects-container">
+          <!-- Projects will be loaded dynamically via JS -->
         </div>
       </section>
 
       <section id="contact">
         <h2>Contact</h2>
-        <form>
+        <form id="contact-form">
           <label for="name">Name:</label>
           <input type="text" id="name" name="name" required />
 
@@ -113,5 +114,7 @@
     <footer>
       <p>&copy; 𝟸𝟶𝟸𝟻 | 𝙰𝚋𝚒𝚗𝚊𝚜𝚑 𝙽𝚊𝚟𝚊𝚜𝚎𝚎𝚕𝚊𝚗</p>
     </footer>
+
+    <script src="script.js"></script>
   </body>
 </html>
