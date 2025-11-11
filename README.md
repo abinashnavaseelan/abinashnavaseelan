@@ -1,7 +1,7 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝙰𝚋𝚒𝚗𝚊𝚜𝚑 𝙽𝚊𝚟𝚊𝚜𝚎𝚎𝚕𝚊𝚗</h1>
 <h3 align="center">𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚝𝚘 𝚋𝚎 𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝚒𝚝'𝚜 𝚗𝚘𝚝 𝚐𝚘𝚒𝚗𝚐 𝚐𝚛𝚎𝚊𝚝 𝚐𝚊𝚗𝚐 😞. </h3>
 
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) , ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) , ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) , ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐: ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - 📄 𝙺𝚗𝚘𝚠 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜: 𝚒 𝚑𝚊𝚟𝚎 𝚣𝚎𝚛𝚘 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚋𝚝𝚠.
 
