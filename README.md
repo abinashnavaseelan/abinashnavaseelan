@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! 👋 Abinash Navaseelan</h1>
+<h1 align="center">Welcome to my Profile!, Hi I'm Abinash Navaseelan👋 </h1>
 <h3 align="center">Junior IT Technician • Full-Stack Developer</h3>
 
 
