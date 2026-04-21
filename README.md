@@ -4,6 +4,11 @@
 
 ---
 
+<p align="center">
+  <img src="assets/aotwater.gif"/>
+</p>
+
+---
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
@@ -39,14 +44,6 @@
 
 ---
 
-
-
-<p align="center">
-  <img src="assets/aotwater.gif"/>
-</p>
-
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
