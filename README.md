@@ -45,7 +45,6 @@
   <img src="assets/images/RickGrimes.gif" width="500"/>
 </p>
 
-<p align="center"><i>"Stop acting like you know the way ahead, like you know the rules. There are no rules man, we're lost."</i></p>
 
 ---
 
