@@ -47,7 +47,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nirari-yaro-78912a287/" target="_blank">
+  <a href="https://www.linkedin.com/in/abinashnavaseelan/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
@@ -56,7 +56,7 @@
 
 ## 💼 Portfolio
 <p align="center">
-  <a href="https://comfy-bombolone-f4b66d.netlify.app/" target="_blank">
+  <a href="[https://comfy-bombolone-f4b66d.netlify.app/](https://abinashnavaseelanportfolio.vercel.app/)" target="_blank">
     🚀 View My Work
   </a>
 </p>
