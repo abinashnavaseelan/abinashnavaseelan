@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to my Profile!, Hi I'm Abinash Navaseelan👋 </h1>
+<h1 align="center">Welcome to my Profile! Hi I'm Abinash Navaseelan👋 </h1>
 <h3 align="center">Junior IT Technician • Full-Stack Developer</h3>
 
 
 ---
 
 <p align="center">
-  <img src="assets/aotwater.gif"/>
+  <img src="assets/aot.gif"/>
 </p>
 
 ---
