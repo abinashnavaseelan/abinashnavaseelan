@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <img src="assets/aotwater.gif" width="500"/>
+  <img src="assets/aotwater.gif"/>
 </p>
 
 
