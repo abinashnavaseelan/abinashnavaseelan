@@ -56,7 +56,7 @@
 
 ## 💼 Portfolio
 <p align="center">
-  <a href="[https://comfy-bombolone-f4b66d.netlify.app/](https://abinashnavaseelanportfolio.vercel.app/)" target="_blank">
+  <a href="[https://abinashnavaseelanportfolio.vercel.app/]" target="_blank">
     🚀 View My Work
   </a>
 </p>
