@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="assets/aot.gif"/>
+  <img src="/aot.gif"/>
 </p>
 
 ---
