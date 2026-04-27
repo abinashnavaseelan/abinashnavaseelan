@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="/aot.gif"/>
+  <img src="/ichigo.gif"/>
 </p>
 
 ---
