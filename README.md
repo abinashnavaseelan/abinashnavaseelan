@@ -9,6 +9,15 @@
 </p>
 
 ---
+
+<h2> Visitor count  </h2>
+
+<div align="left">  
+  <img src="https://komarev.com/ghpvc/?username=abinashnavaseelan&style=for-the-badge&color=blue" align="center"/> 
+</div>
+<br>
+
+---
 ## ⚡ Tech Stack
 
 ### 🎨 Frontend
